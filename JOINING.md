@@ -47,7 +47,7 @@ If you’re a CDDO staff member, you must create new repositories under the CDDO
 
 You must follow the guidance on:
 
-- [storing source code](https://gds-way.cloudapps.digital/standards/source-code.html#publish-open-source-code) from The GDS Way
+- [storing source code](https://gds-way.cloudapps.digital/standards/source-code/index.html#publish-open-source-code) from The GDS Way
 - [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) from the Service Manual
 
 Give your new repository a name that fully describes what it is, for example aws-route53-parked-govuk-domain.
