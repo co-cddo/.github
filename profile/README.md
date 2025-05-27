@@ -5,4 +5,4 @@ CDDO leads the Government Digital and Data function for the UK government, and i
 You can read more about:
 
 - [what CDDO do](https://www.gov.uk/government/organisations/central-digital-and-data-office/about)
-- [joining CDDO’s organisation on GitHub](JOINING.md)
+- [joining CDDO’s organisation on GitHub](/JOINING.md)
